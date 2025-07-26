@@ -44,6 +44,13 @@ Hey! I'm **Kyxen**, a 14-year-old developer who loves to build new things :)
     <a href="https://discord.com/users/840896867473948672">Discord</a>
 </p>
 
+
+<p align="center">
+    <a href="https://discord.com/users/840896867473948672">
+        <img src="https://lanyard.cnrad.dev/api/840896867473948672" />
+    </a>
+</p>
+
 ---
 
 <p align="center">
