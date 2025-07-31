@@ -1,12 +1,12 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Kyxen&section=header&reversal=true"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Maneeth&section=header&reversal=true"/>
 </p>
 
 ---
 
 ## 👋 About Me
 
-Hey! I'm **Kyxen**, a 14-year-old developer who loves to build new things :)
+Hey! I'm **Maneeth**, a 14-year-old developer who loves to build new things :)
 
 ---
 
